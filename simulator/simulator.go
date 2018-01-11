@@ -1,8 +1,8 @@
 package simulator
 
 import (
-	"github/jorgen/hello/util"
 	"os"
+	"github.com/jorgenpo/simplyeconomic/util"
 )
 
 var actions = map[int]func() {
